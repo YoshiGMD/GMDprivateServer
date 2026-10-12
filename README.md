@@ -1,11 +1,4 @@
-> [!CAUTION]  
-> This version of core is **deprecated**. Core will **not receive** any new features, except new GD updates and security fixes.
-> 
-> However, new core is in development and should release one day or another. [Repository with new GDPS core.](https://github.com/MegaSa1nt/GMDprivateServer/tree/new)
-> 
-> Do **not** use new core in production.
-
-# GMDprivateServer
+#GMDPrivateServer
 ## Geometry Dash Private Server
 Basically a Geometry Dash Server Emulator
 
@@ -57,3 +50,4 @@ Translit — https://github.com/ashtokalo/php-translit — (config/translit)
 Snow — https://embed.im/snow — (dashboard)
 
 Most of the stuff in generateHash.php has been figured out by pavlukivan and Italian APK Downloader, so credits to them
+Fixed PHPs to work without any modifications, mixed with GMDPrivateServer-lists by CVolton and GMDPrivateServer fork by MegaSa1nt.
